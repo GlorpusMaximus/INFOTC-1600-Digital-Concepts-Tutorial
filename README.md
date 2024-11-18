@@ -24,30 +24,55 @@ This tutorial is designed for:
 
 ---
 
-## What You'll Learn
+## Table of Contents
 
-1. **Introduction to Stable Diffusion**
-   - Overview of what Stable Diffusion is and how it works.
-   - Key features and applications.
+1. [Introduction to Stable Diffusion](#introduction-to-stable-diffusion)
+2. [Setting Up Stable Diffusion](#setting-up-stable-diffusion)
+3. [Crafting Prompts for Image Generation](#crafting-prompts-for-image-generation)
+4. [Fine-Tuning the Generation Process](#fine-tuning-the-generation-process)
+5. [Advanced Features](#advanced-features)
+6. [Practical Applications](#practical-applications)
 
-2. **Setting Up Stable Diffusion**
-   - Installation guide for local use.
-   - Tips for using cloud-based services for Stable Diffusion.
+---
 
-3. **Crafting Prompts for Image Generation**
-   - Writing clear and descriptive prompts.
-   - Understanding parameters like style, resolution, and keywords.
+## Introduction to Stable Diffusion
 
-4. **Fine-Tuning the Generation Process**
-   - Adjusting settings like CFG scale, seed values, and image dimensions.
-   - Using negative prompts to avoid undesired elements.
+- Overview of what Stable Diffusion is and how it works.
+- Key features and applications.
 
-5. **Advanced Features**
-   - Exploring inpainting and outpainting.
-   - Using image-to-image transformation.
+---
 
-6. **Practical Applications**
-   - Examples of using Stable Diffusion for art, marketing, and more.
+## Setting Up Stable Diffusion
+
+- Installation guide for local use.
+- Tips for using cloud-based services for Stable Diffusion.
+
+---
+
+## Crafting Prompts for Image Generation
+
+- Writing clear and descriptive prompts.
+- Understanding parameters like style, resolution, and keywords.
+
+---
+
+## Fine-Tuning the Generation Process
+
+- Adjusting settings like CFG scale, seed values, and image dimensions.
+- Using negative prompts to avoid undesired elements.
+
+---
+
+## Advanced Features
+
+- Exploring inpainting and outpainting.
+- Using image-to-image transformation.
+
+---
+
+## Practical Applications
+
+- Examples of using Stable Diffusion for art, marketing, and more.
 
 ---
 
