@@ -64,7 +64,10 @@ This section walks you through the installation and setup process for Stable Dif
    - Double click the run.bat to launch web UI, during the first launch it will download large amounts of files. After everything has been downloaded and installed correctly, you should see a message "Running on local URL:  http://127.0.0.1:7860", opening the link will present you with the web UI interface.
 
 3. **Model Installation**:
-   - Instal Realistic vision from [here](https://civitai.com/models/4201/realistic-vision-v60-b1) and place it in your sd.webui\webui\models\Stable-diffusion directory
+   - Install Realistic vision from [here](https://civitai.com/models/4201/realistic-vision-v60-b1) and place it in your sd.webui\webui\models\Stable-diffusion directory
+   - Click the blue refresh button next to **Checkpoint** in your webui and select Realistic Vision from the dropdown menu
+   - Go to the sampler menu and select DPM++ SDE from the selection menu. This is what Realistic Vision uses to render images
+   - Set CFG to 1.5 and Steps to 5
   
 ---
 
@@ -76,6 +79,7 @@ Prompts are the key to getting great results in Stable Diffusion. This section h
    - Describe the subject: “A futuristic cityscape at night.”
    - Add stylistic details: “in the style of cyberpunk art, vibrant neon lights.”
    - Include contextual modifiers: “highly detailed, 8K resolution, cinematic.”
+   - Hit generate when ready
 
 2. **Tips for Success**:
    - Be as specific as possible.
