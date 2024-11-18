@@ -54,6 +54,8 @@ This section walks you through the installation and setup process for Stable Dif
    - A computer with at least 8GB of RAM.
    - GPU acceleration for faster performance.
    - Stable Diffusion software or a cloud-based service like Google Colab.
+   - Git
+   - Python
 
 2. **Local Installation**:
    - Download and install necessary libraries (e.g., Python, PyTorch).
