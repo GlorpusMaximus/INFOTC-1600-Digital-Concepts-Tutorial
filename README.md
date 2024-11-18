@@ -62,7 +62,7 @@ This section walks you through the installation and setup process for Stable Dif
    - Python
 
 2. **Local Installation**:
-   - Download the sd.webui.zip from here, this package is from v1.0.0-pre we will update it to the latest webui version in step 3.
+   - Download the sd.webui.zip from [here](https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases/tag/v1.0.0-pre), this package is from v1.0.0-pre we will update it to the latest webui version in step 3.
    - Extract the zip file at your desired location.
    - Double click the update.bat to update web UI to the latest version, wait till finish then close the window.
    - Double click the run.bat to launch web UI, during the first launch it will download large amounts of files. After everything has been downloaded and installed correctly, you should see a message "Running on local URL:  http://127.0.0.1:7860", opening the link will present you with the web UI interface.
