@@ -50,6 +50,10 @@ Key topics covered:
 
 This section walks you through the installation and setup process for Stable Diffusion on your device.
 
+**Links**:
+- https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases/tag/v1.0.0-pre
+- https://civitai.com/models/4201/realistic-vision-v60-b1
+
 1. **Requirements**:
    - A computer with at least 8GB of RAM.
    - GPU acceleration for faster performance.
