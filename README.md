@@ -62,13 +62,10 @@ This section walks you through the installation and setup process for Stable Dif
    - Python
 
 2. **Local Installation**:
-   - Download and install necessary libraries (e.g., Python, PyTorch).
-   - Clone the Stable Diffusion repository.
-   - Configure the environment and verify the setup.
-
-3. **Using Cloud-Based Services**:
-   - Explore platforms like Google Colab for running Stable Diffusion without hardware limitations.
-   - Tips for managing cloud costs and resources.
+   - Download the sd.webui.zip from here, this package is from v1.0.0-pre we will update it to the latest webui version in step 3.
+   - Extract the zip file at your desired location.
+   - Double click the update.bat to update web UI to the latest version, wait till finish then close the window.
+   - Double click the run.bat to launch web UI, during the first launch it will download large amounts of files. After everything has been downloaded and installed correctly, you should see a message "Running on local URL:  http://127.0.0.1:7860", opening the link will present you with the web UI interface.
 
 ---
 
