@@ -50,10 +50,6 @@ Key topics covered:
 
 This section walks you through the installation and setup process for Stable Diffusion on your device.
 
-**Links**:
-- https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases/tag/v1.0.0-pre
-- https://civitai.com/models/4201/realistic-vision-v60-b1
-
 1. **Requirements**:
    - A computer with at least 8GB of RAM.
    - GPU acceleration for faster performance.
@@ -67,6 +63,9 @@ This section walks you through the installation and setup process for Stable Dif
    - Double click the update.bat to update web UI to the latest version, wait till finish then close the window.
    - Double click the run.bat to launch web UI, during the first launch it will download large amounts of files. After everything has been downloaded and installed correctly, you should see a message "Running on local URL:  http://127.0.0.1:7860", opening the link will present you with the web UI interface.
 
+3. **Model Installation**:
+   - Instal Realistic vision from [here](https://civitai.com/models/4201/realistic-vision-v60-b1) and place it in your sd.webui\webui\models\Stable-diffusion directory
+  
 ---
 
 ## Crafting Prompts for Image Generation
